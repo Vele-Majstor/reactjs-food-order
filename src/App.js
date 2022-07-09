@@ -15,6 +15,7 @@ function App() {
   const hideCartHandler = () => {
     setCartIsShown(false);
   };
+  //adding cart logic
 
   return (
     <CartProvider>
